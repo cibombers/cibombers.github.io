@@ -1,5 +1,5 @@
 # Central Illinois Bombers Softball
 
+* [Roster](./roster/)
 * [Events](./events/)
-* [Players](./players/)
 * [Sponsors](./sponsors/)

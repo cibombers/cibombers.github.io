@@ -1,0 +1,19 @@
+- players:
+  - name: First Last
+    number: 3
+    positions: 1st base, catcher
+    instagram: insta
+    facebook: face
+    x: x
+  - name: First Last
+    number: 4
+    postions: 2nd base, outfield
+    instagram: insta
+    facebook: face
+    x: x
+  - name: First Last
+    number: 5
+    positions: short stop, pitcher
+    instagram: insta
+    facebook: face
+    x: x
