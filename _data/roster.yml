@@ -1,19 +1,18 @@
-- players:
-  - name: First Last
-    number: 3
-    positions: 1st base, catcher
-    instagram: insta
-    facebook: face
-    x: x
-  - name: First Last
-    number: 4
-    postions: 2nd base, outfield
-    instagram: insta
-    facebook: face
-    x: x
-  - name: First Last
-    number: 5
-    positions: short stop, pitcher
-    instagram: insta
-    facebook: face
-    x: x
+- name: E Jackman
+  number: 2
+  positions: Short Stop, 1st base
+  instagram: insta
+  facebook: face
+  x: x
+- name: V Jones
+  number: 3
+  postions: Short Stop, 2nd base
+  instagram: insta
+  facebook: face
+  x: x
+- name: E Stahl
+  number: 4
+  positions: 3rd base, Outfield
+  instagram: insta
+  facebook: face
+  x: x

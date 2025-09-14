@@ -1,7 +1,7 @@
 # Roster
 
- The following people are members of our research team:
-
- {% for team_member in site.data.roster %}
- - {{ team_member.name }}, position: {{ team_member.position }}
- {% endfor %}
+| Name         | Number       | Positions    | Social Media |
+| ---          | ---          | ---          | ---          |
+{% for team_member in site.data.roster -%}
+| {{ team_member.name }} | {{ team_member.number }} | {{ team_member.positions }} | {{ team_member.instagram }} |
+{% endfor -%}
