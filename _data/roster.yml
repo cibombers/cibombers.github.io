@@ -1,18 +1,45 @@
-- name: E Jackman
+- name: Elicia J.
   number: 2
-  positions: Short Stop, 1st base
+  positions: Short Stop, Catcher
   instagram: insta
   facebook: face
   x: x
-- name: V Jones
+- name: Violet J.
   number: 3
-  postions: Short Stop, 2nd base
+  positions: Short Stop, 2nd base
   instagram: insta
   facebook: face
   x: x
-- name: E Stahl
+- name: Emma S.
   number: 4
   positions: 3rd base, Outfield
   instagram: insta
   facebook: face
   x: x
+- name: Maddie C.
+  number: 7
+  positions: Pitcher, 2nd base
+- name: Grace J.
+  number: 10
+  positions: Outfield, 1st base
+- name: Aubri S.
+  number: 15
+  positions: Catcher, Outfield
+- name: Adah H.
+  number: 16
+  positions: 1st base, Outfield
+- name: Amaya B.
+  number: 21
+  positions: Outfield, 2nd base
+- name: Ava D.
+  number: 22
+  positions: Short Stop, 2nd base
+- name: Ella B.
+  number: 29
+  positions: Pitcher, 2nd base
+- name: Macie L.
+  number: 35
+  positions: 3rd base, Catcher
+- name: Emma W.
+  number: 61
+  positions: Pitcher, 1st base
