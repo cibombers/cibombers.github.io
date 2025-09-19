@@ -2,5 +2,5 @@
 
 * [Roster](./roster/)
 * [Coaches](./coaches/)
-* [Events](./events/)
+* [Schedule](./schedule/)
 * [Sponsors](./sponsors/)
