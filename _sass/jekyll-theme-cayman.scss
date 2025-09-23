@@ -121,6 +121,8 @@ a {
 
   @include small {
     padding: 3rem 1rem;
+    margin-top: auto;
+    padding-top: 4rem;
   }
 }
 
@@ -404,5 +406,11 @@ a {
     color: #586069;
     text-decoration: none;
     font-weight: 600;
+  }
+
+  @include small {
+    position: relative; // Add this to ensure proper height calculation
+    height: auto; // Allow height to adjust to content
+    min-height: 50px; // Provide minimum height
   }
 }
