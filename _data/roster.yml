@@ -1,57 +1,50 @@
-- name: Elicia J.
+- name: E. Jackman
   grad_year: 2028
   number: 2
   positions: Short Stop, Catcher
-  instagram: insta
-  facebook: face
-  x: x
-- name: Violet J.
+- name: V. Jones
   grad_year: 2028
   number: 3
   positions: Short Stop, 2nd base
-  instagram: insta
-  facebook: face
-  x: x
-- name: Emma S.
+- name: E. Stahl
   grad_year: 2027
   number: 4
   positions: 3rd base, Outfield
-  instagram: insta
-  facebook: face
-  x: x
-- name: Maddie C.
+- name: M. Cooper
   grad_year: 2028
   number: 7
   positions: Pitcher, 2nd base
-- name: Grace J.
+- name: G. Jones
   grad_year: 2028
   number: 10
   positions: Outfield, 1st base
-- name: Aubri S.
+- name: A. Sluser
   grad_year: 2027
   number: 15
   positions: Catcher, Outfield
-- name: Adah H.
+- name: A. Helferich
   grad_year: 2027
   number: 16
   positions: 1st base, Outfield
-- name: Amaya B.
+  instagram: adahs.softball16
+- name: A. Bridgeforth
   grad_year: 2027
   number: 21
   positions: Outfield, 2nd base
-- name: Ava D.
+- name: A. Dietz
   grad_year: 2027
   number: 22
   positions: Short Stop, 2nd base
-- name: Ella B.
+- name: E. Bonnette
   grad_year: 2028
   number: 29
   positions: Pitcher, 2nd base
-- name: Macie L.
+- name: M. Lamberson
   grad_year: 2028
   number: 35
   positions: 3rd base, Catcher
-- name: Emma W.
+  x: MacieLambo_35
+- name: E. Wyman
   grad_year: 2027
   number: 61
   positions: Pitcher, 1st base
