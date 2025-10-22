@@ -1,0 +1,104 @@
+.player-profile {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+  .profile-container {
+    display: flex;
+    gap: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .profile-left {
+    flex: 1;
+    background-color: #7fa5de; // Blue background
+    padding: 2rem;
+    color: white;
+
+    .player-image {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+    }
+
+    .player-name {
+      h1 {
+        font-size: 3rem;
+        font-weight: 700;
+        margin: 0;
+        color: #586069; // Gold color
+      }
+
+      h2 {
+        color: #f0f2f4;
+        border-bottom: 3px solid #586069;
+        padding-bottom: 0.5rem;
+        margin-bottom: 1rem;
+      }
+    }
+    .contact-section {
+      margin-top: 2rem;
+      
+      .reference {
+        margin-bottom: 1rem;
+        
+        p {
+          margin: 0.2rem 0;
+        }
+        .ref-name {
+          font-weight: bold;
+        }
+        .ref-title {
+          font-style: italic;
+        }
+        .ref-phone, .ref-email {
+          font-size: smaller;
+        }
+      }
+      h2 {
+        color: #f0f2f4;
+        border-bottom: 3px solid #586069;
+        padding-bottom: 0.5rem;
+        margin-bottom: 1rem;
+      }
+    }
+  }
+
+  .profile-right {
+    flex: 2;
+    padding: 1rem;
+
+    h2 {
+      color: #7fa5de;
+      border-bottom: 3px solid #586069;
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+      font-size: larger;
+    }
+
+    .stats-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+      margin: 1rem 0;
+    }
+
+    .schedule-grid {
+      display: grid;
+      gap: 0.5rem;
+
+      .game {
+        display: grid;
+        grid-template-columns: auto 1fr auto auto;
+        gap: 1rem;
+        align-items: center;
+      }
+    }
+
+  }
+}

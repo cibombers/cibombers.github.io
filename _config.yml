@@ -4,3 +4,8 @@ plugins:
 
 title: Central Illinois Bombers Softball
 description: Central Illinois Bombers Softball
+
+collections:
+  players:
+    output: true
+    permalink: /players/:name/

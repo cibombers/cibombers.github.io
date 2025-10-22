@@ -1,0 +1,97 @@
+---
+layout: default
+---
+<div class="player-profile">
+  <div class="profile-container">
+    <!-- Left Column with Image and Name -->
+    <div class="profile-left">
+      {% if page.player_image %}
+      <img src="{{ page.player_image }}" alt="{{ page.player_name }}" class="player-image">
+      {% endif %}
+      <div class="player-name">
+        <h1>{{ page.player_name }}</h1>
+        <h2>{{ page.position }}</h2>
+      </div>
+
+      <!-- Contact Section -->
+      <div class="contact-section">
+        <h2>CONTACT INFORMATION</h2>
+        <p>{{ page.phone }}</p>
+        <p>{{ page.email }}</p>
+        
+        <h2>REFERENCES</h2>
+        {% for reference in page.references %}
+        <div class="reference">
+          <p class="ref-name">{{ reference.name }}</p>
+          <p class="ref-title">{{ reference.title }}</p>
+          <p class="ref-phone">{{ reference.phone }}</p>
+          <p class="ref-email">{{ reference.email }}</p>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- Right Column with Stats -->
+    <div class="profile-right">
+      <!-- Current School Section -->
+      <div class="school-section">
+        <h2>{{ page.current_school }} - {{ page.graduation_year }}</h2>
+        <p>GPA: {{ page.gpa }}</p>
+        <p>AREA OF STUDY: {{ page.area_of_study }}</p>
+        {% for achievement in page.achievements %}
+        <p>{{ achievement }}</p>
+        {% endfor %}
+      </div>
+
+      <!-- Previous School Section -->
+      <div class="previous-school">
+        <h2>{{ page.high_school }} - {{ page.hs_graduation }}</h2>
+        <p>GPA: {{ page.hs_gpa }}</p>
+        {% for honor in page.honors %}
+        <p>{{ honor }}</p>
+        {% endfor %}
+      </div>
+
+      <!-- Stats Section -->
+      <div class="stats-section">
+        <h2>{{ page.season_year }}</h2>
+        
+        <div class="stats-container">
+          <div class="offensive-stats">
+            <h3>OFFENSIVE STATS</h3>
+            <ul>
+              {% for stat in page.offensive_stats %}
+              <li>{{ stat[0] }} - {{ stat[1] }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          
+          <div class="defensive-stats">
+            <h3>DEFENSIVE STATS</h3>
+            <ul>
+              {% for stat in page.defensive_stats %}
+              <li>{{ stat[0] }} - {{ stat[1] }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Schedule Section -->
+      <div class="schedule-section">
+        <h2>{{ page.schedule_season }} SCHEDULE</h2>
+        <div class="schedule-grid">
+          {% for game in page.schedule %}
+          <div class="game">
+            <span class="date">{{ game.date }}</span>
+            <span class="opponent">- VS. {{ game.opponent }}</span>
+            <span class="location">{{ game.location }}</span>
+            <span class="time">{{ game.time }}</span>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
