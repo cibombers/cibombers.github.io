@@ -33,16 +33,6 @@ layout: default
 
     <!-- Right Column with Stats -->
     <div class="profile-right">
-      <!-- Current School Section -->
-      <div class="school-section">
-        <h2>{{ page.current_school }} - {{ page.graduation_year }}</h2>
-        <p>GPA: {{ page.gpa }}</p>
-        <p>AREA OF STUDY: {{ page.area_of_study }}</p>
-        {% for achievement in page.achievements %}
-        <p>{{ achievement }}</p>
-        {% endfor %}
-      </div>
-
       <!-- Previous School Section -->
       <div class="previous-school">
         <h2>{{ page.high_school }} - {{ page.hs_graduation }}</h2>
