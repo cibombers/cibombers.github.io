@@ -8,18 +8,14 @@ layout: default
       {% if page.player_image %}
       <img src="{{ page.player_image }}" alt="{{ page.player_name }}" class="player-image">
       {% endif %}
-      <div class="player-name">
-        <h1>{{ page.player_name }}</h1>
-        <h2>{{ page.position }}</h2>
+      <div>
+        <h1 class="player-name">{{ page.player_name }}</h1>
+        <p>Central Illinois Bombers</p>
       </div>
 
       <!-- Contact Section -->
       <div class="contact-section">
-        <h2>CONTACT INFORMATION</h2>
-        <p>{{ page.phone }}</p>
-        <p>{{ page.email }}</p>
-        
-        <h2>REFERENCES</h2>
+        <h2 class="left-heading">REFERENCES</h2>
         {% for reference in page.references %}
         <div class="reference">
           <p class="ref-name">{{ reference.name }}</p>
@@ -29,17 +25,34 @@ layout: default
         </div>
         {% endfor %}
       </div>
+      <hr style="height: 3px; background-color: #586069">
+      <p>GC: Central Illinois Bombers 16u</p>
+      <img src="{{ page.player_qr }}" alt="{{ page.player_name }}" class="player-qr">
     </div>
 
     <!-- Right Column with Stats -->
     <div class="profile-right">
+      <h1>{{ page.player_name }}</h1>
+      <ul>
+        {% for position in page.positions %}
+        <li>{{ position }}</li>
+        {% endfor %}
+      </ul>
+
+      <h2 class="left-heading">Contact Info</h2>
+      {% if page.instagram %}
+        <p>Instagram: @{{ page.instagram }}</p>
+      {% endif %}
+        
       <!-- Previous School Section -->
       <div class="previous-school">
         <h2>{{ page.high_school }} - {{ page.hs_graduation }}</h2>
         <p>GPA: {{ page.hs_gpa }}</p>
-        {% for honor in page.honors %}
-        <p>{{ honor }}</p>
-        {% endfor %}
+        <ul>
+          {% for honor in page.honors %}
+          <li>{{ honor }}</li>
+          {% endfor %}
+        </ul>
       </div>
 
       <!-- Stats Section -->

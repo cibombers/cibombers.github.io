@@ -1,17 +1,19 @@
 ---
 layout: player_profile
-player_name: Amaya Bridgeforth
-position: Center Field
+player_name: AMAYA BRIDGEFORTH
+positions:
+  - Outfield
+  - 2nd Base
 player_image: /path/to/image.jpg
 
-high_school: TREMONT HIGH SCHOOL
-hs_graduation: 2024
+high_school: Olympia High School
+hs_graduation: 2027
 hs_gpa: 3.4
 honors:
   - FIRST TEAM ALL-HOI-CONFERENCE MEMBER - 2023 & 2024
   - ICA 2ND TEAM ALL-STATE (2A) - 2024
 
-season_year: FRESHMAN (2025)
+season_year: Summer (2025)
 offensive_stats:
   AB: 136
   BA: .324
@@ -40,7 +42,7 @@ references:
     title: Bombers Head Coach
     phone: 
     email: 
-  - name: Kelly Dunn
+  - name: Kelli Dunne
     title: Bombers Assistant Coach
     phone: 
     email: 

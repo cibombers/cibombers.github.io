@@ -1,29 +1,32 @@
 ---
 layout: player_profile
-player_name: Emma Stahl
-position: 3rd Base
+player_name: EMMA STAHL
+positions:
+  - 3rd Base
+  - Outfield
 player_image: /path/to/image.jpg
+player_qr: /assets/qr_e_stahl.png
 
 high_school: Dunlap High School
 hs_graduation: 2027
-hs_gpa: 3.4
+hs_gpa: 4.0
 honors:
-  - FIRST TEAM ALL-HOI-CONFERENCE MEMBER - 2023 & 2024
-  - ICA 2ND TEAM ALL-STATE (2A) - 2024
+  - Honor 1
+  - Honor 2
 
-season_year: FRESHMAN (2025)
+season_year: Summer (2025)
 offensive_stats:
-  AB: 136
-  BA: .324
-  OBP: .410
-  SLG: .544
-  RBI: 38
+  AB: 42
+  BA: .286
+  OBP: .400
+  SLG: .381
+  RBI: 7
 
 defensive_stats:
-  INN: 166.1
-  PB: 5
-  "CS%": 32.43
-  PIK: 6
+  INN: 0
+  PB: 0
+  "CS%": 0
+  PIK: 0
 
 schedule_season: FALL 2025
 schedule:
@@ -32,15 +35,14 @@ schedule:
     location: SPRINGFIELD, IL
     time: 1P
 
-phone: (309)555-5555
-email: something@mail.com
+instagram: emmastahl2027
 
 references:
   - name: Sam McKee
     title: Bombers Head Coach
     phone: 
     email: 
-  - name: Kelly Dunn
+  - name: Kelli Dunne
     title: Bombers Assistant Coach
     phone: 
     email: 

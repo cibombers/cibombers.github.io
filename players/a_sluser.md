@@ -1,7 +1,9 @@
 ---
 layout: player_profile
-player_name: Aubrie Sluser
-position: CATCHER
+player_name: AUBRI SLUSER
+positions:
+  - Catcher
+  - Outfield
 player_image: /path/to/image.jpg
 
 high_school: Pekin Community High School
@@ -11,7 +13,7 @@ honors:
   - FIRST TEAM ALL-HOI-CONFERENCE MEMBER - 2023 & 2024
   - ICA 2ND TEAM ALL-STATE (2A) - 2024
 
-season_year: FRESHMAN (2025)
+season_year: Summer (2025)
 offensive_stats:
   AB: 136
   BA: .324
@@ -40,7 +42,7 @@ references:
     title: Bombers Head Coach
     phone: 
     email: 
-  - name: Kelly Dunn
+  - name: Kelli Dunne
     title: Bombers Assistant Coach
     phone: 
     email: 

@@ -420,3 +420,18 @@ a {
   display: inline-block;
   margin-right: 8px;
 }
+
+@media print {
+    // body {
+    //     margin: 0;
+    //     padding: 0;
+    // }
+    // .player-profile {
+    //     margin: 0;
+    //     padding: 0;
+    // }
+    /* Hide any default headers/footers */
+    header, footer, .site-header, .site-footer {
+        display: none !important;
+    }
+}
