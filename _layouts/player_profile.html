@@ -19,7 +19,7 @@ layout: default
         {% for reference in page.references %}
         <div class="reference">
           <p class="ref-name">{{ reference.name }}</p>
-          <p class="ref-title">{{ reference.title }}</p>
+          <p class="ref-title">- {{ reference.title }}</p>
           <p class="ref-phone">{{ reference.phone }}</p>
           <p class="ref-email">{{ reference.email }}</p>
         </div>
@@ -84,7 +84,7 @@ layout: default
       <div class="schedule-section">
         <h2>{{ page.schedule_season }} SCHEDULE</h2>
         <div class="schedule-grid">
-          {% for game in page.schedule %}
+          {% for game in site.data.schedule %}
           <div class="game">
             <span class="date">{{ game.date }}</span>
             <span class="opponent">- VS. {{ game.opponent }}</span>

@@ -7,6 +7,7 @@ carousels:
     - image: /assets/css/logo_ecsi.png
     - image: /assets/css/logo_ibew.png
     - image: /assets/css/logo_ruyle.png
+    - image: /assets/css/logo_cefcu.png
 ---
 
 # Central Illinois Bombers Softball

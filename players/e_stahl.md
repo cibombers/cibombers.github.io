@@ -29,11 +29,6 @@ defensive_stats:
   PIK: 0
 
 schedule_season: FALL 2025
-schedule:
-  - date: SEPT. 13
-    opponent: KANKAKEE
-    location: SPRINGFIELD, IL
-    time: 1P
 
 instagram: emmastahl2027
 

@@ -9,7 +9,7 @@ player_qr: /assets/qr_g_jones.png
 
 high_school: Pekin Community High School
 hs_graduation: 2028
-hs_gpa: 3.4
+hs_gpa: 3.4.0
 honors:
   - Tennis
   - Orchestra
@@ -29,14 +29,6 @@ defensive_stats:
   PIK: 6
 
 schedule_season: FALL 2025
-schedule:
-  - date: SEPT. 13
-    opponent: KANKAKEE
-    location: SPRINGFIELD, IL
-    time: 1P
-
-phone: (309)555-5555
-email: something@mail.com
 
 references:
   - name: Sam McKee

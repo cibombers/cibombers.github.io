@@ -5,13 +5,14 @@ positions:
   - Pitcher
   - 2nd Base
 player_image: /path/to/image.jpg
+player_qr: /assets/qr_m_cooper.png
 
 high_school: Eureka High Scool
 hs_graduation: 2028
-hs_gpa: 3.4
+hs_gpa: 4.0
 honors:
-  - FIRST TEAM ALL-HOI-CONFERENCE MEMBER - 2023 & 2024
-  - ICA 2ND TEAM ALL-STATE (2A) - 2024
+  - FIRST
+  - Second
 
 season_year: Summer (2025)
 offensive_stats:
@@ -28,14 +29,6 @@ defensive_stats:
   PIK: 6
 
 schedule_season: FALL 2025
-schedule:
-  - date: SEPT. 13
-    opponent: KANKAKEE
-    location: SPRINGFIELD, IL
-    time: 1P
-
-phone: (309)555-5555
-email: something@mail.com
 
 references:
   - name: Sam McKee

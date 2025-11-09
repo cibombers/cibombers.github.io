@@ -7,4 +7,5 @@
     <img src="/assets/css/logo_ecsi.png" alt="ECSI" style="max-width: 200px; margin: 20px;">
     <img src="/assets/css/logo_ibew.png" alt="IBEW" style="max-width: 200px; margin: 20px;">
     <img src="/assets/css/logo_ruyle.png" alt="Ruyle" style="max-width: 200px; margin: 20px;">
+    <img src="/assets/css/logo_cefcu.png" alt="CEFCU" style="max-width: 200px; margin: 20px;">
 </div>
