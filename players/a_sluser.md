@@ -14,21 +14,18 @@ honors:
   - FIRST
   - Second
 
-season_year: Summer (2025)
+season_year: Fall (2025)
 offensive_stats:
-  AB: 136
-  BA: .324
-  OBP: .410
-  SLG: .544
-  RBI: 38
+  AB: 38
+  BA: .211
+  OBP: .302
+  SLG: .237
+  RBI: 2
 
 defensive_stats:
-  INN: 166.1
-  PB: 5
-  "CS%": 32.43
-  PIK: 6
-
-schedule_season: FALL 2025
+  INN: 55.2
+  FPCT: .958
+  PO: 21
 
 references:
   - name: Sam McKee

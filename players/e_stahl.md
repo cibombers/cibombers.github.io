@@ -14,21 +14,18 @@ honors:
   - Honor 1
   - Honor 2
 
-season_year: Summer (2025)
+season_year: Fall (2025)
 offensive_stats:
-  AB: 42
-  BA: .286
-  OBP: .400
-  SLG: .381
+  AB: 26
+  BA: .346
+  OBP: .469
+  SLG: .538
   RBI: 7
 
 defensive_stats:
-  INN: 0
-  PB: 0
-  "CS%": 0
-  PIK: 0
-
-schedule_season: FALL 2025
+  INN: 33.1
+  FPCT: .765
+  PO: 2
 
 instagram: emmastahl2027
 

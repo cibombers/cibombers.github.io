@@ -14,21 +14,18 @@ honors:
   - Cheerleading - Football and Basketball
   - Competition Cheer
 
-season_year: Summer (2025)
+season_year: Fall (2025)
 offensive_stats:
-  AB: 136
-  BA: .324
-  OBP: .410
-  SLG: .544
-  RBI: 38
+  AB: 31
+  BA: .387
+  OBP: .472
+  SLG: .613
+  RBI: 11
 
 defensive_stats:
-  INN: 166.1
-  PB: 5
-  "CS%": 32.43
-  PIK: 6
-
-schedule_season: Summer 2026
+  INN: 53.1
+  FPCT: .864
+  PO: 11
 
 references:
   - name: Sam McKee
