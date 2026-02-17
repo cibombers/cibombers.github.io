@@ -2,8 +2,9 @@
 
 | Date | Event | Location | Notes |
 | ---  | ---   | ---      | ---   |
-| October 5, 2025 | Fall Showcase | UIS Softball Field / Complex, Springfield IL | |
-| October 12, 2025 | The Bats-R-Back Tournament | UIS Softball Field / Complex, Springfield IL | |
-| October 16, 2025 | BNGSA Shock 16U | Champions Fields, Bloomington IL | Double Header, Field 6 |
-| October 29, 2025 | Dunlap Eagles 15U | ICC CougarPlex, East Peoria IL | Double Header |
-| November 1-2, 2025 | Fallout Fastpitch Tournament | Scheels Dome, Springfield IL | |
+| June 13-14, 2026 | Route 66 Summer Showcase | Springfield, IL  | |
+| June 19-21, 2026 | Slugger Summer Slugfest | Peoria, IL | |
+| June 26-28, 2026 |  | Nashville, TN |  |
+| July 9-12, 2026 | Illinois State Championships | Peoria, IL |  |
+| July 16-19, 2026 | 2026 Fastptich Festival | Shawnee, KS | |
+| July 21-26, 2026 | USSSA Great Lakes National Champ. (16 open) | Peoria, IL | |
