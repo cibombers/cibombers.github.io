@@ -4,7 +4,7 @@ player_name: GRACE JONES
 positions:
   - Outfield
   - 1st Base
-player_image: /path/to/image.jpg
+player_image: /assets/Jones.Grace-8469 copy.jpeg
 player_qr: /assets/qr_g_jones.png
 
 high_school: Pekin Community High School

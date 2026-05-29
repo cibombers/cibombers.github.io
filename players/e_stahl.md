@@ -4,7 +4,7 @@ player_name: EMMA STAHL
 positions:
   - 3rd Base
   - Outfield
-player_image: /path/to/image.jpg
+player_image: /assets/Stahl.Emma-8018 copy.jpg
 player_qr: /assets/qr_e_stahl.png
 
 high_school: Dunlap High School
