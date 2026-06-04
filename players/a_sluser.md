@@ -4,7 +4,7 @@ player_name: AUBRI SLUSER
 positions:
   - Catcher
   - Outfield
-player_image: /path/to/image.jpg
+player_image: /assets/sluser.aubri.jpg
 player_qr: /assets/qr_a_sluser.png
 
 high_school: Pekin Community High School

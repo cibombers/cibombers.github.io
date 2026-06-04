@@ -4,7 +4,7 @@ player_name: AMAYA BRIDGEFORTH
 positions:
   - Outfield
   - 2nd Base
-player_image: /path/to/image.jpg
+player_image: /assets/bridgeforth.amaya.jpg
 player_qr: /assets/qr_a_bridgeforth.png
 
 high_school: Olympia High School

@@ -4,7 +4,7 @@ player_name: Violet Jones
 positions:
   - Short Stop
   - 2nd Base
-player_image: /path/to/image.jpg
+player_image: /assets/jones.violet.jpg
 player_qr: /assets/qr_v_jones.png
 
 high_school: Pekin Community High School

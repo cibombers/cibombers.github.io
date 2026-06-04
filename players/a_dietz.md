@@ -4,7 +4,7 @@ player_name: AVA DIETZ
 positions:
   - Short Stop
   - 2nd Base
-player_image: /path/to/image.jpg
+player_image: /assets/dietz.ava.jpg
 player_qr: /assets/qr_a_dietz.png
 
 high_school: Dunlap High School

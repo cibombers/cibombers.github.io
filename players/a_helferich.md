@@ -4,7 +4,7 @@ player_name: ADAH HELFERICH
 positions:
   - 1st Base
   - Outfield
-player_image: /path/to/image.jpg
+player_image: /assets/helferich.adah.jpg
 player_qr: /assets/qr_a_helferich.png
 
 high_school: Dunlap High School

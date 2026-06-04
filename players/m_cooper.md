@@ -4,7 +4,7 @@ player_name: MADDIE COOPER
 positions: 
   - Pitcher
   - 2nd Base
-player_image: /path/to/image.jpg
+player_image: /assets/cooper.madeline.jpg
 player_qr: /assets/qr_m_cooper.png
 
 high_school: Eureka High Scool

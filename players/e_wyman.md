@@ -4,7 +4,7 @@ player_name: EMMA WYMAN
 positions:
   - Pitcher
   - 1st Base
-player_image: /path/to/image.jpg
+player_image: /assets/wyman.emma.jpg
 player_qr: /assets/qr_e_wyman.png
 
 high_school: Pekin Community High School

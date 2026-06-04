@@ -2,52 +2,64 @@
   grad_year: 2028
   number: 2
   positions: Short Stop, Catcher
+  page: /players/e_jackman.html
 - name: V. Jones
   grad_year: 2028
   number: 3
   positions: Short Stop, 2nd base
+  page: /players/v_jones.html
 - name: E. Stahl
   grad_year: 2027
   number: 4
   instagram: emmastahl2027
   positions: 3rd base, Outfield
+  page: /players/e_stahl.html
 - name: M. Cooper
   grad_year: 2028
   number: 7
   positions: Pitcher, 2nd base
+  page: /players/m_cooper.html
 - name: G. Jones
   grad_year: 2028
   number: 10
   positions: Outfield, 1st base
+  page: /players/g_jones.html
 - name: A. Sluser
   grad_year: 2027
   number: 15
   positions: Catcher, Outfield
+  page: /players/a_sluser.html
 - name: A. Helferich
   grad_year: 2027
   number: 16
   positions: 1st base, Outfield
   instagram: adahs.softball16
+  page: /players/a_helferich.html
 - name: A. Bridgeforth
   grad_year: 2027
   number: 21
   positions: Outfield, 2nd base
+  page: /players/a_bridgeforth.html
 - name: A. Dietz
   grad_year: 2027
   number: 22
   positions: Short Stop, 2nd base
+  page: /players/a_dietz.html
 - name: E. Bonnette
   grad_year: 2028
   number: 29
   positions: Pitcher, 2nd base
+  page: /players/e_bonnette.html
 - name: M. Lamberson
   grad_year: 2028
   number: 35
   positions: 3rd base, Catcher
   x: MacieLambo_35
+  page: /players/m_lamberson.html
 - name: E. Wyman
   grad_year: 2027
   number: 61
   positions: Pitcher, 1st base
   instagram: emma_wyman2027
   email: emma_wyman@icloud.com
+  page: /players/e_wyman.html

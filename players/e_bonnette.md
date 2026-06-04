@@ -4,7 +4,7 @@ player_name: ELLA BONNETTE
 positions:
   - Pitcher
   - 2nd Base
-player_image: /path/to/image.jpg
+player_image: /assets/bonnette.ella.jpg
 player_qr: /assets/qr_e_bonnette.png
 
 high_school: Pekin Community High School

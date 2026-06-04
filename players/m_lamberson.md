@@ -4,7 +4,7 @@ player_name: MACIE LAMBERSON
 positions:
   - Catcher
   - 3rd Base
-player_image: /path/to/image.jpg
+player_image: /assets/lamberson.macie.jpg
 player_qr: /assets/qr_m_lamberson.png
 
 high_school: Pekin Community High School

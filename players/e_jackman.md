@@ -4,7 +4,7 @@ player_name: ELICIA JACKMAN
 positions:
   - Short Stop
   - Catcher
-player_image: /path/to/image.jpg
+player_image: /assets/jackman.elicia.jpg
 player_qr: /assets/qr_e_jackman.png
 
 high_school: Pekin Community High School
