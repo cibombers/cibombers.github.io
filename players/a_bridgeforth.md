@@ -2,8 +2,8 @@
 layout: player_profile
 player_name: AMAYA BRIDGEFORTH
 positions:
-  - Outfield
-  - 2nd Base
+  - Center Field
+  - Left Field
 player_image: /assets/bridgeforth.amaya.jpg
 player_qr: /assets/qr_a_bridgeforth.png
 
@@ -11,8 +11,8 @@ high_school: Olympia High School
 hs_graduation: 2027
 hs_gpa: 4.0
 honors:
-  - First
-  - Second
+  - Honor 1
+  - Honor 2
 
 season_year: Fall (2025)
 offensive_stats:

@@ -3,16 +3,13 @@ layout: player_profile
 player_name: MADDIE COOPER
 positions: 
   - Pitcher
-  - 2nd Base
+  - 3nd Base
 player_image: /assets/cooper.madeline.jpg
 player_qr: /assets/qr_m_cooper.png
 
 high_school: Eureka High Scool
 hs_graduation: 2028
 hs_gpa: 4.0
-honors:
-  - FIRST
-  - Second
 
 season_year: Fall (2025)
 offensive_stats:

@@ -9,10 +9,11 @@ player_qr: /assets/qr_g_jones.png
 
 high_school: Pekin Community High School
 hs_graduation: 2028
-hs_gpa: 3.4.0
+hs_gpa: 4.0
 honors:
   - Tennis
   - Orchestra
+  - High Honor Roll (2025, 2026)
 
 season_year: Fall (2025)
 offensive_stats:
