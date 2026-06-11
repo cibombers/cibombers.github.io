@@ -9,10 +9,8 @@ player_qr: /assets/qr_e_jackman.png
 
 high_school: Pekin Community High School
 hs_graduation: 2028
-hs_gpa: 4.0
+hs_gpa:
 honors:
-  - FIRST TEAM ALL-HOI-CONFERENCE MEMBER - 2023 & 2024
-  - Second
 
 season_year: Fall (2025)
 offensive_stats:

@@ -9,10 +9,8 @@ player_qr: /assets/qr_a_bridgeforth.png
 
 high_school: Olympia High School
 hs_graduation: 2027
-hs_gpa: 4.0
+hs_gpa: 
 honors:
-  - Honor 1
-  - Honor 2
 
 season_year: Fall (2025)
 offensive_stats:

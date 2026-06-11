@@ -9,10 +9,8 @@ player_qr: /assets/qr_a_dietz.png
 
 high_school: Dunlap High School
 hs_graduation: 2027
-hs_gpa: 4.0
+hs_gpa:
 honors:
-  - FIRST
-  - Second
 
 season_year: Fall (2025)
 offensive_stats:

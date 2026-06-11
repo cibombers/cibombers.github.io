@@ -9,10 +9,11 @@ player_qr: /assets/qr_e_stahl.png
 
 high_school: Dunlap High School
 hs_graduation: 2027
-hs_gpa: 4.0
+hs_gpa: 3.5
 honors:
-  - Honor 1
-  - Honor 2
+  - High Honor Roll (4 semesters)
+  - Honor Roll (2 semesters)
+  - FCCLA Vice-President 2026-2027
 
 season_year: Fall (2025)
 offensive_stats:
@@ -21,6 +22,7 @@ offensive_stats:
   OBP: .469
   SLG: .538
   RBI: 7
+  A: 11
 
 defensive_stats:
   INN: 33.1

@@ -9,10 +9,8 @@ player_qr: /assets/qr_a_sluser.png
 
 high_school: Pekin Community High School
 hs_graduation: 2027
-hs_gpa: 4.0
+hs_gpa:
 honors:
-  - FIRST
-  - Second
 
 season_year: Fall (2025)
 offensive_stats:

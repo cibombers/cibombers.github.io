@@ -9,7 +9,7 @@ player_qr: /assets/qr_m_cooper.png
 
 high_school: Eureka High Scool
 hs_graduation: 2028
-hs_gpa: 4.0
+hs_gpa:
 
 season_year: Fall (2025)
 offensive_stats:
