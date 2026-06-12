@@ -22,12 +22,12 @@ offensive_stats:
   OBP: .469
   SLG: .538
   RBI: 7
-  A: 11
 
 defensive_stats:
   INN: 33.1
   FPCT: .765
   PO: 2
+  A: 11
 
 instagram: emmastahl2027
 
