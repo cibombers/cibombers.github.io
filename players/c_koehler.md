@@ -4,7 +4,7 @@ player_name: CALI KOEHLER
 positions:
   - Catcher
   - 1st Base
-player_image: 
+player_image: /assets/koehler.cali.jpg
 player_qr: /assets/qr_c_koehler.png
 
 high_school: Roanoke-Benson High School
